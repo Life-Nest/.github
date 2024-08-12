@@ -22,8 +22,8 @@ Life Nest empowers hospitals to efficiently manage their incubators and simplify
 
 This repository holds two key components:
 
-1. **Backend API** - Built using JavaScript and Express for robust handling of API requests. Prisma provides interaction with the database for data storage and retrieval.
-2. **Mobile App** - Developed using Flutter, a cross-platform framework, allowing deployment on both iOS and Android devices.
+1. **[Backend API](https://github.com/Life-Nest/backend-service)** - Built using JavaScript and Express for robust handling of API requests. Prisma provides interaction with the database for data storage and retrieval.
+2. **[Mobile App](https://github.com/Life-Nest/mobile-app)** - Developed using Flutter, a cross-platform framework, allowing deployment on both iOS and Android devices.
 
 ## Target Users:
 
