@@ -1,6 +1,6 @@
 # Life Nest - Incubator Management System
 
-Life Nest is a comprehensive system designed to streamline incubator organization and reservation for hospitals and parents. This repository encompasses both the backend API and the mobile application components.
+Life Nest is a comprehensive system designed to streamline incubator organization and reservation for hospitals and parents. This organization encompasses both the backend API and the mobile application components.
 
 ## About Life Nest
 
